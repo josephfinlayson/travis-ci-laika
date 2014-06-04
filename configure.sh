@@ -8,3 +8,7 @@ npm install -g meteorite
 
 #installing deps
 mrt update
+
+#start meteor
+
+meteor
