@@ -11,4 +11,4 @@ mrt update
 
 #start meteor
 
-meteor
+meteor&
