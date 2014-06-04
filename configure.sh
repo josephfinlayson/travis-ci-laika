@@ -10,4 +10,4 @@ curl https://install.meteor.com | /bin/sh
 npm install -g meteorite
 
 #installing laika
-npm install -g laika
+mrt update
